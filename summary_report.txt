@@ -1,0 +1,24 @@
+============================================================
+  CYB 302 BIOMETRICS LAB – RESULTS SUMMARY
+============================================================
+  Dataset          : ORL Face (AT&T)
+  Subjects         : 40
+  Total images     : 400
+  Image size       : 100x100 px
+  Feature method   : PCA (Eigenfaces, 50 components)
+  Matching metric  : Euclidean distance
+
+  PERFORMANCE METRICS
+  Equal Error Rate (EER)  : 8.93%
+  ROC AUC                 : 0.9706
+
+  OUTPUT FILES
+  task2_preprocessing.png
+  task3_eigenfaces.png
+  task4_score_distributions.png
+  task5_FAR_FRR_threshold.png
+  task6_roc_curve.png
+  task7_multimodal_fusion.png
+  task8_encrypted_templates.json
+  task8_encryption_key.key
+============================================================
